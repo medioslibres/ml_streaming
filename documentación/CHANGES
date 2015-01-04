@@ -1,0 +1,8 @@
+1.0
+    Versión Inicial
+	Soporte pulseaudio
+	Soporte Opus
+	Soporte GTK3
+	Soporta MP2, MP3, AAC, OGG
+	Soporta jack (requiere darkice 0.15 o superior)
+
