@@ -46,7 +46,7 @@
 
 #ifndef __TOOLTIPS_H__
 #include "tooltips.h"
-#endif
+#endifarle
 
 int main( int  argc, char *argv[], char *envp[]) {
   DIR *directory;
